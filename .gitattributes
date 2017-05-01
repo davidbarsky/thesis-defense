@@ -1,0 +1,2 @@
+erdos.png filter=lfs diff=lfs merge=lfs -text
+erdos.jpg filter=lfs diff=lfs merge=lfs -text

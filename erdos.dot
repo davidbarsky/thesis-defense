@@ -1,0 +1,14 @@
+digraph dag {
+	graph [ bgcolor="transparent" ];
+  graph [ dpi = 300 ]; 
+	0 -> 5;
+	0 -> 7;
+	1;
+	2 -> 3;
+	2 -> 4;
+	2 -> 5;
+	3 -> 9;
+	4 -> 8;
+	5 -> 8;
+	6;
+}
