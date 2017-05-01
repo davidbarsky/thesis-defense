@@ -11,7 +11,7 @@ David Barsky, Ryan Marcus, Olga Papaemmanouil
 2. Introduction and Context
 3. Definitions
 4. Goals
-5. Results
+5. Demo
 6. Conclusions
 
 ---
@@ -84,7 +84,9 @@ Sirens modifies the terminology established for directed acyclic graphs. We rede
 
 # Definitions
 
-Sirens frequently intersects with critical paths. Critical paths are paths in a directed acyclic graph that 
+Sirens frequently intersects with critical paths. Critical paths are paths in a directed acyclic graph that represent the shortest time that a graph can be completed in.
+
+They span from start to finish.
 
 ---
 
@@ -111,9 +113,35 @@ Sirens tries to determine which algorithms are best at achieving these goals and
 
 ---
 
-# Results
+# Goals
+
+We implemented several algorithms that share the following properties: 
+
+- Has an arbitrary graph structure
+- Has arbitrary computational costs.
+- Has communication between nodes.
+- Has no duplication between nodes.
+- Has no upper bound on the number of processors.
+
+---
+
+# Demo
+
+^ I think exploring the data in the spreadsheet and running live code samples would provide a nice break from the slides. I've used this technique while defending my work at prior internships with success, and I think it would be a good fit here.
+
+---
+
+# Conclusions
 
 We've seen two primary tradeoffs.
 
 1. Time vs. Optimality (expected, this is an NP-complete problem).
-2. 
+2. Number of Critical Paths versus Optimality (context-sensative, room for further work.)
+
+---
+
+# Conclusions
+
+If time is not a concern or the task graph is sufficently small, an $$O(n^3)$$ algorithm works wonders. 
+
+Otherwise, graphs with few critical paths are best scheduled with Linear Cluster. Graphs with more critical paths are best handled by Edge Zero.
