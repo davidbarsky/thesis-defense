@@ -62,7 +62,6 @@ Graphs consist of verticies $$V$$ and edges $$E$$, where $$V$$ are the entities 
 
 Additionally, directed ayclic graphs have two additional properties: directionality and acyclically.
 
-
 ---
 
 # Definitions
@@ -71,6 +70,14 @@ Additionally, directed ayclic graphs have two additional properties: directional
 **Acyclically**: It is impossible to follow a path from vertex $$a$$ and end at $$a$$.
 
 Taken together, directed ayclic graphs are uniquely adept at representing connected actions over time.
+
+---
+
+# Definitions
+
+![inline 50%](images/erdos-sample.png)
+
+^ This is a grpah with 10 nodes generated using Erdos' technique.
 
 ---
 
@@ -115,19 +122,44 @@ Sirens tries to determine which algorithms are best at achieving these goals and
 
 # Goals
 
-We implemented several algorithms that share the following properties: 
+We implemented several algorithms that share/allow for the following properties: 
 
-- Has an arbitrary graph structure
-- Has arbitrary computational costs.
-- Has communication between nodes.
-- Has no duplication between nodes.
-- Has no upper bound on the number of processors.
+- Arbitrary graph structure
+- Arbitrary computational costs
+- Communication between tasks
+- No duplication between tasks
+- No upper bound on the number of processors
 
 ---
 
-# Demo
+# Results
 
-^ I think exploring the data in the spreadsheet and running live code samples would provide a nice break from the slides. I've used this technique while defending my work at prior internships with success, and I think it would be a good fit here.
+![inline](images/results-cholesky.png)
+
+---
+
+# Results
+
+![inline](images/results-erdos.png)
+
+---
+
+# Results
+
+![inline](images/results-poisson.png)
+
+---
+
+# Results
+
+![inline](images/results-sparse.png)
+
+
+---
+
+# Results
+
+![inline](images/results-fork.png)
 
 ---
 
