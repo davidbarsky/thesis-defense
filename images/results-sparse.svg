@@ -3,34 +3,34 @@
     <svg aria-label="A chart." style="overflow: hidden;" xmlns="http://www.w3.org/2000/svg">
         <defs id="defs">
             <clipPath id="_ABSTRACT_RENDERER_ID_0"><rect height="192" width="400" x="103" y="60"/></clipPath>
-        </defs><rect fill="#ffffff" height="311" stroke-width="0" stroke="none" width="605" x="0" y="0"/>
+        </defs><rect fill="#f5f1ee" height="311" stroke-width="0" stroke="none" width="605" x="0" y="0"/>
         <g>
             <text fill="#000000" font-family="Avenir" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="25.1">Edge Zero, Linear Cluster, Dynamic Critical Path and</text>
-            <text fill="#000000" font-family="Avenir" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="46.1">Round Robin (Sparse LU)</text><rect fill-opacity="0" fill="#ffffff" height="37" stroke-width="0" stroke="none" width="400" x="103" y="11.5"/></g>
-        <g><rect fill-opacity="0" fill="#ffffff" height="149" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
-            <g><rect fill-opacity="0" fill="#ffffff" height="28" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
+            <text fill="#000000" font-family="Avenir" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="46.1">Round Robin (Sparse LU)</text><rect fill-opacity="0" fill="#f5f1ee" height="37" stroke-width="0" stroke="none" width="400" x="103" y="11.5"/></g>
+        <g><rect fill-opacity="0" fill="#f5f1ee" height="149" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="28" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
                 <g>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="70.2">Edge</text>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="86.2">Zero</text>
                 </g><rect fill="#3366cc" height="12" stroke-width="0" stroke="none" width="24" x="515" y="60"/></g>
-            <g><rect fill-opacity="0" fill="#ffffff" height="28" stroke-width="0" stroke="none" width="78" x="515" y="95"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="28" stroke-width="0" stroke="none" width="78" x="515" y="95"/>
                 <g>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="105.2">Linear</text>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="121.2">Cluster</text>
                 </g><rect fill="#dc3912" height="12" stroke-width="0" stroke="none" width="24" x="515" y="95"/></g>
-            <g><rect fill-opacity="0" fill="#ffffff" height="44" stroke-width="0" stroke="none" width="78" x="515" y="130"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="44" stroke-width="0" stroke="none" width="78" x="515" y="130"/>
                 <g>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="140.2">Dynamic</text>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="156.2">Critical</text>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="172.2">Path</text>
                 </g><rect fill="#ff9900" height="12" stroke-width="0" stroke="none" width="24" x="515" y="130"/></g>
-            <g><rect fill-opacity="0" fill="#ffffff" height="28" stroke-width="0" stroke="none" width="78" x="515" y="181"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="28" stroke-width="0" stroke="none" width="78" x="515" y="181"/>
                 <g>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="191.2">Round</text>
                     <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="207.2">Robin</text>
                 </g><rect fill="#109618" height="12" stroke-width="0" stroke="none" width="24" x="515" y="181"/></g>
         </g>
-        <g><rect fill-opacity="0" fill="#ffffff" height="192" stroke-width="0" stroke="none" width="400" x="103" y="60"/>
+        <g><rect fill-opacity="0" fill="#f5f1ee" height="192" stroke-width="0" stroke="none" width="400" x="103" y="60"/>
             <g clip-path="url(https://docs.google.com/spreadsheets/d/1ly6D8qFVUCPBOd5htB6U43u9VQmpAeOpk4cjIfhFVj4/pubchart?oid=2077183422&amp;format=interactive#_ABSTRACT_RENDERER_ID_0)">
                 <g><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="251"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="203"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="156"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="108"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="60"/></g>
                 <g><rect fill="#3366cc" height="27" stroke-width="0" stroke="none" width="10" x="116" y="224"/><rect fill="#3366cc" height="30" stroke-width="0" stroke="none" width="9" x="183" y="221"/><rect fill="#3366cc" height="56" stroke-width="0" stroke="none" width="10" x="249" y="195"/><rect fill="#3366cc" height="56" stroke-width="0" stroke="none" width="9" x="316" y="195"/><rect fill="#3366cc" height="94" stroke-width="0" stroke="none" width="10" x="382" y="157"/><rect fill="#3366cc" height="96" stroke-width="0" stroke="none" width="9" x="449" y="155"/><rect fill="#dc3912" height="27" stroke-width="0" stroke="none" width="9" x="127" y="224"/><rect fill="#dc3912" height="35" stroke-width="0" stroke="none" width="10" x="193" y="216"/><rect fill="#dc3912" height="82" stroke-width="0" stroke="none" width="9" x="260" y="169"/><rect fill="#dc3912" height="86" stroke-width="0" stroke="none" width="10" x="326" y="165"/><rect fill="#dc3912" height="184" stroke-width="0" stroke="none" width="9" x="393" y="67"/><rect fill="#dc3912" height="186" stroke-width="0" stroke="none" width="10" x="459" y="65"/><rect fill="#ff9900" height="7" stroke-width="0" stroke="none" width="10" x="137" y="244"/><rect fill="#ff9900" height="8" stroke-width="0" stroke="none" width="9" x="204" y="243"/><rect fill="#ff9900" height="11" stroke-width="0" stroke="none" width="10" x="270" y="240"/><rect fill="#ff9900" height="12" stroke-width="0" stroke="none" width="9" x="337" y="239"/><rect fill="#ff9900" height="18" stroke-width="0" stroke="none" width="10" x="403" y="233"/><rect fill="#ff9900" height="19" stroke-width="0" stroke="none" width="9" x="470" y="232"/><rect fill="#109618" height="26" stroke-width="0" stroke="none" width="9" x="148" y="225"/><rect fill="#109618" height="29" stroke-width="0" stroke="none" width="10" x="214" y="222"/><rect fill="#109618" height="47" stroke-width="0" stroke="none" width="9" x="281" y="204"/><rect fill="#109618" height="55" stroke-width="0" stroke="none" width="10" x="347" y="196"/><rect fill="#109618" height="75" stroke-width="0" stroke="none" width="9" x="414" y="176"/><rect fill="#109618" height="80" stroke-width="0" stroke="none" width="10" x="480" y="171"/></g>
@@ -74,8 +74,8 @@
         </g>
         <g>
             <g>
-                <text fill="#222222" font-family="Avenir" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" x="303" y="295.2">Vertices</text><rect fill-opacity="0" fill="#ffffff" height="12" stroke-width="0" stroke="none" width="400" x="103" y="285"/></g>
+                <text fill="#222222" font-family="Avenir" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" x="303" y="295.2">Vertices</text><rect fill-opacity="0" fill="#f5f1ee" height="12" stroke-width="0" stroke="none" width="400" x="103" y="285"/></g>
             <g>
-                <text fill="#222222" font-family="Avenir" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" transform="rotate(-90 33.2 156)" x="33.2" y="156">Cost</text><path d="M22.999999999999993,252L23.000000000000004,60L35,60L34.99999999999999,252Z" fill-opacity="0" fill="#ffffff" stroke-width="0" stroke="none"/></g>
+                <text fill="#222222" font-family="Avenir" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" transform="rotate(-90 33.2 156)" x="33.2" y="156">Cost</text><path d="M22.999999999999993,252L23.000000000000004,60L35,60L34.99999999999999,252Z" fill-opacity="0" fill="#f5f1ee" stroke-width="0" stroke="none"/></g>
         </g><g/></svg>
 </svg>

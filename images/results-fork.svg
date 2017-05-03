@@ -3,28 +3,28 @@
     <svg aria-label="A chart." style="overflow: hidden;" xmlns="http://www.w3.org/2000/svg">
         <defs id="defs">
             <clipPath id="_ABSTRACT_RENDERER_ID_0"><rect height="192" width="400" x="103" y="60"/></clipPath>
-        </defs><rect fill="#ffffff" height="311" stroke-width="0" stroke="none" width="605" x="0" y="0"/>
+        </defs><rect fill="#f5f1ee" height="311" stroke-width="0" stroke="none" width="605" x="0" y="0"/>
         <g>
-            <text fill="#000000" font-family="Arial" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="25.1">Edge Zero, Linear Cluster, and Round Robin (Fork/</text>
-            <text fill="#000000" font-family="Arial" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="46.1">Join)</text><rect fill-opacity="0" fill="#ffffff" height="37" stroke-width="0" stroke="none" width="400" x="103" y="11.5"/></g>
-        <g><rect fill-opacity="0" fill="#ffffff" height="98" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
-            <g><rect fill-opacity="0" fill="#ffffff" height="28" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
+            <text fill="#000000" font-family="Avenir" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="25.1">Edge Zero, Linear Cluster, and Round Robin (Fork/</text>
+            <text fill="#000000" font-family="Avenir" font-size="16" font-weight="bold" stroke-width="0" stroke="none" text-anchor="start" x="103" y="46.1">Join)</text><rect fill-opacity="0" fill="#f5f1ee" height="37" stroke-width="0" stroke="none" width="400" x="103" y="11.5"/></g>
+        <g><rect fill-opacity="0" fill="#f5f1ee" height="98" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="28" stroke-width="0" stroke="none" width="78" x="515" y="60"/>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="70.2">Edge</text>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="86.2">Zero</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="70.2">Edge</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="86.2">Zero</text>
                 </g><rect fill="#3366cc" height="12" stroke-width="0" stroke="none" width="24" x="515" y="60"/></g>
-            <g><rect fill-opacity="0" fill="#ffffff" height="28" stroke-width="0" stroke="none" width="78" x="515" y="95"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="28" stroke-width="0" stroke="none" width="78" x="515" y="95"/>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="105.2">Linear</text>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="121.2">Cluster</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="105.2">Linear</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="121.2">Cluster</text>
                 </g><rect fill="#dc3912" height="12" stroke-width="0" stroke="none" width="24" x="515" y="95"/></g>
-            <g><rect fill-opacity="0" fill="#ffffff" height="28" stroke-width="0" stroke="none" width="78" x="515" y="130"/>
+            <g><rect fill-opacity="0" fill="#f5f1ee" height="28" stroke-width="0" stroke="none" width="78" x="515" y="130"/>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="140.2">Round</text>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="156.2">Robin</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="140.2">Round</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="start" x="544" y="156.2">Robin</text>
                 </g><rect fill="#ff9900" height="12" stroke-width="0" stroke="none" width="24" x="515" y="130"/></g>
         </g>
-        <g><rect fill-opacity="0" fill="#ffffff" height="192" stroke-width="0" stroke="none" width="400" x="103" y="60"/>
+        <g><rect fill-opacity="0" fill="#f5f1ee" height="192" stroke-width="0" stroke="none" width="400" x="103" y="60"/>
             <g clip-path="url(https://docs.google.com/spreadsheets/d/1ly6D8qFVUCPBOd5htB6U43u9VQmpAeOpk4cjIfhFVj4/pubchart?oid=674826330&amp;format=interactive#_ABSTRACT_RENDERER_ID_0)">
                 <g><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="251"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="203"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="156"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="108"/><rect fill="#cccccc" height="1" stroke-width="0" stroke="none" width="400" x="103" y="60"/></g>
                 <g><rect fill="#3366cc" height="23" stroke-width="0" stroke="none" width="13" x="116" y="228"/><rect fill="#3366cc" height="39" stroke-width="0" stroke="none" width="13" x="183" y="212"/><rect fill="#3366cc" height="54" stroke-width="0" stroke="none" width="13" x="249" y="197"/><rect fill="#3366cc" height="68" stroke-width="0" stroke="none" width="13" x="316" y="183"/><rect fill="#3366cc" height="83" stroke-width="0" stroke="none" width="13" x="382" y="168"/><rect fill="#3366cc" height="98" stroke-width="0" stroke="none" width="13" x="449" y="153"/><rect fill="#dc3912" height="6" stroke-width="0" stroke="none" width="13" x="130" y="245"/><rect fill="#dc3912" height="10" stroke-width="0" stroke="none" width="13" x="197" y="241"/><rect fill="#dc3912" height="15" stroke-width="0" stroke="none" width="13" x="263" y="236"/><rect fill="#dc3912" height="17" stroke-width="0" stroke="none" width="13" x="330" y="234"/><rect fill="#dc3912" height="19" stroke-width="0" stroke="none" width="13" x="396" y="232"/><rect fill="#dc3912" height="22" stroke-width="0" stroke="none" width="13" x="463" y="229"/><rect fill="#ff9900" height="44" stroke-width="0" stroke="none" width="13" x="144" y="207"/><rect fill="#ff9900" height="74" stroke-width="0" stroke="none" width="13" x="211" y="177"/><rect fill="#ff9900" height="102" stroke-width="0" stroke="none" width="13" x="277" y="149"/><rect fill="#ff9900" height="133" stroke-width="0" stroke="none" width="13" x="344" y="118"/><rect fill="#ff9900" height="161" stroke-width="0" stroke="none" width="13" x="410" y="90"/><rect fill="#ff9900" height="190" stroke-width="0" stroke="none" width="13" x="477" y="61"/></g>
@@ -32,44 +32,44 @@
             </g><g/>
             <g>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="136.75" y="269.2">33</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="136.75" y="269.2">33</text>
                 </g>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="203.25" y="269.2">49</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="203.25" y="269.2">49</text>
                 </g>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="269.75" y="269.2">65</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="269.75" y="269.2">65</text>
                 </g>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="336.25" y="269.2">81</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="336.25" y="269.2">81</text>
                 </g>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="402.75" y="269.2">97</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="402.75" y="269.2">97</text>
                 </g>
                 <g>
-                    <text fill="#222222" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="469.25" y="269.2">113</text>
+                    <text fill="#222222" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="middle" x="469.25" y="269.2">113</text>
                 </g>
                 <g>
-                    <text fill="#444444" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="255.7">0</text>
+                    <text fill="#444444" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="255.7">0</text>
                 </g>
                 <g>
-                    <text fill="#444444" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="207.95">7500</text>
+                    <text fill="#444444" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="207.95">7500</text>
                 </g>
                 <g>
-                    <text fill="#444444" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="160.2">15000</text>
+                    <text fill="#444444" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="160.2">15000</text>
                 </g>
                 <g>
-                    <text fill="#444444" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="112.45">22500</text>
+                    <text fill="#444444" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="112.45">22500</text>
                 </g>
                 <g>
-                    <text fill="#444444" font-family="Arial" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="64.7">30000</text>
+                    <text fill="#444444" font-family="Avenir" font-size="12" stroke-width="0" stroke="none" text-anchor="end" x="91" y="64.7">30000</text>
                 </g>
             </g>
         </g>
         <g>
             <g>
-                <text fill="#222222" font-family="Arial" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" x="303" y="295.2">Vertices</text><rect fill-opacity="0" fill="#ffffff" height="12" stroke-width="0" stroke="none" width="400" x="103" y="285"/></g>
+                <text fill="#222222" font-family="Avenir" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" x="303" y="295.2">Vertices</text><rect fill-opacity="0" fill="#f5f1ee" height="12" stroke-width="0" stroke="none" width="400" x="103" y="285"/></g>
             <g>
-                <text fill="#222222" font-family="Arial" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" transform="rotate(-90 33.2 156)" x="33.2" y="156">Cost</text><path d="M22.999999999999993,252L23.000000000000004,60L35,60L34.99999999999999,252Z" fill-opacity="0" fill="#ffffff" stroke-width="0" stroke="none"/></g>
+                <text fill="#222222" font-family="Avenir" font-size="12" font-style="italic" stroke-width="0" stroke="none" text-anchor="middle" transform="rotate(-90 33.2 156)" x="33.2" y="156">Cost</text><path d="M22.999999999999993,252L23.000000000000004,60L35,60L34.99999999999999,252Z" fill-opacity="0" fill="#f5f1ee" stroke-width="0" stroke="none"/></g>
         </g><g/></svg>
 </svg>
