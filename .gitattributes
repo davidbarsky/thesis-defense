@@ -1,3 +1,5 @@
 erdos.png filter=lfs diff=lfs merge=lfs -text
 erdos.jpg filter=lfs diff=lfs merge=lfs -text
 slides.pdf filter=lfs diff=lfs merge=lfs -text
+images/graphviz/cholesky-sample.png filter=lfs diff=lfs merge=lfs -text
+images/graphviz/forkjoin-sample.png filter=lfs diff=lfs merge=lfs -text
